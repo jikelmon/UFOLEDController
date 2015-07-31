@@ -18,7 +18,7 @@ UFOv1 is the LD382, UFOv3 is the LD382A.
 
 1. Create a new object
 
-Ufov1 controller = new UFOv1("NAME", "IP");
+UFOv1 controller = new UFOv1("NAME", "IP");
 
 2. Change Power Status by Power.On or Power.Off
 
