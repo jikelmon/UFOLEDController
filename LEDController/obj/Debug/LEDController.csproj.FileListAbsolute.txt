@@ -1,0 +1,11 @@
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\obj\Debug\LEDController.csprojResolveAssemblyReference.cache
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\obj\Debug\LEDController.Form1.resources
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\obj\Debug\LEDController.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\obj\Debug\LEDController.csproj.GenerateResource.Cache
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\bin\Debug\LEDController.exe.config
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\bin\Debug\LEDController.exe
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\bin\Debug\LEDController.pdb
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\bin\Debug\UFOLEDController.dll
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\bin\Debug\UFOLEDController.pdb
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\obj\Debug\LEDController.exe
+C:\Users\nicol\OneDrive\Software Development\Visual Studio\UFOLEDController\LEDController\obj\Debug\LEDController.pdb

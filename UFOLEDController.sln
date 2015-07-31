@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFOLEDController", "UFOLEDController\UFOLEDController.csproj", "{33F1589C-AA56-42A1-BA3E-E9A6447D688E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LEDController", "LEDController\LEDController.csproj", "{ABD3739A-C3AD-40F3-9E95-E0627FCD5675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F1589C-AA56-42A1-BA3E-E9A6447D688E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F1589C-AA56-42A1-BA3E-E9A6447D688E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F1589C-AA56-42A1-BA3E-E9A6447D688E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F1589C-AA56-42A1-BA3E-E9A6447D688E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD3739A-C3AD-40F3-9E95-E0627FCD5675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD3739A-C3AD-40F3-9E95-E0627FCD5675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD3739A-C3AD-40F3-9E95-E0627FCD5675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD3739A-C3AD-40F3-9E95-E0627FCD5675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
